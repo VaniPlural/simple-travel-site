@@ -1,0 +1,13 @@
+body {
+    
+    .fontPara{
+        font-family:'Trebuchet MS';
+    }
+
+    .borderApply{
+        border: brown;
+        border: 1px solid;
+        border-style:outset;
+        border-radius: 0rex;
+    }
+  }
